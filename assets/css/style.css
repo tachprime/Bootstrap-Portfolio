@@ -42,6 +42,10 @@ p {
     margin-bottom: 20px;
 }
 
+.head small {
+    color: rgb(194, 187, 78);
+}
+
 .bio {
     color: #7f7f7f;
     background-color: #ffffff;
